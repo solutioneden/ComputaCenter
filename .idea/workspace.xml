@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="413f6fbb-b0b9-4835-baab-3b0fa35bff69" name="Default" comment="" />
+    <list default="true" id="413f6fbb-b0b9-4835-baab-3b0fa35bff69" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="ComputaCenter.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/dummy.txt" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382402341029" ignored="false" />
@@ -11,7 +13,7 @@
     <file path="/app.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382397864134" ignored="false" />
     <file path="$PROJECT_DIR$/app/cache/prod/appProdDebugProjectContainer.xml" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382398921319" ignored="false" />
     <file path="/parameters.yml" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382401692506" ignored="false" />
-    <file path="/Dummy.txt" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382401532223" ignored="false" />
+    <file path="/Dummy.txt" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382404515144" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,9 +79,6 @@
     <option name="myDateState">
       <MyDateState />
     </option>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///dummy.txt" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -393,13 +392,13 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="vcs.Git" />
     <property name="recentsLimit" value="5" />
-    <property name="restartRequiresConfirmation" value="true" />
+    <property name="options.lastSelected" value="web-ide.project.structure" />
     <property name="last_opened_file_path" value="/Applications/MAMP/bin/php/php5.3.6/bin" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -445,12 +444,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25365853" sideWeight="0.6018237" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25772357" sideWeight="0.6018237" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39817628" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -459,6 +457,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39817628" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -536,30 +535,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Entity/Customer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="3" selection-start="94" selection-end="94" vertical-scroll-proportion="0.2616279">
-          <folding />
-        </state>
+        <state line="6" column="3" selection-start="94" selection-end="94" vertical-scroll-proportion="0.2616279" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/ChatterBoxBundle.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Form/CustomerType.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.6540698">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.6540698" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Tests/Controller/CustomerControllerTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.7703928">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.7703928" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Acme/DemoBundle/Resources/config/services.xml">
@@ -571,65 +562,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Acme/DemoBundle/Resources/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="19" selection-start="0" selection-end="306" vertical-scroll-proportion="0.44836956">
-          <folding />
-        </state>
+        <state line="11" column="19" selection-start="0" selection-end="306" vertical-scroll-proportion="0.44836956" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/app_dev.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.30523255">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.30523255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.79347825">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.79347825" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="14" selection-start="303" selection-end="303" vertical-scroll-proportion="0.44836956">
-          <folding />
-        </state>
+        <state line="11" column="14" selection-start="303" selection-end="303" vertical-scroll-proportion="0.44836956" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="60" selection-start="483" selection-end="483" vertical-scroll-proportion="0.6929348">
-          <folding />
-        </state>
+        <state line="17" column="60" selection-start="483" selection-end="483" vertical-scroll-proportion="0.6929348" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="32" selection-start="29" selection-end="45" vertical-scroll-proportion="0.04076087">
-          <folding />
-        </state>
+        <state line="1" column="32" selection-start="29" selection-end="45" vertical-scroll-proportion="0.04076087" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Controller/CustomerController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="33" selection-start="520" selection-end="520" vertical-scroll-proportion="0.04360465">
-          <folding />
-        </state>
+        <state line="15" column="33" selection-start="520" selection-end="520" vertical-scroll-proportion="0.04360465" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="36" selection-start="544" selection-end="544" vertical-scroll-proportion="0.56686044">
-          <folding />
-        </state>
+        <state line="18" column="36" selection-start="544" selection-end="544" vertical-scroll-proportion="0.56686044" />
       </provider>
     </entry>
   </component>
