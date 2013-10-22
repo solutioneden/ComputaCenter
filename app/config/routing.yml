@@ -1,0 +1,5 @@
+chatter_box:
+    resource: "@ChatterBoxBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
