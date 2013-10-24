@@ -1,0 +1,4 @@
+_readdrss:
+  resource: "@ChatterBoxBundle/Controller"
+  type: annotation
+  prefix: /readrss

@@ -3,3 +3,6 @@ chatter_box:
     type:     annotation
     prefix:   /
 
+_computacenter_chatterbox:
+  resource: "@ChatterBoxBundle/Resources/config/routing.yml"
+

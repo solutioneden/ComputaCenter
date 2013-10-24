@@ -64,3 +64,9 @@ swiftmailer:
     username:  %mailer_user%
     password:  %mailer_password%
     spool:     { type: memory }
+
+# FKR SimplePie Configuration
+fkr_simple_pie:
+    cache_enabled: false
+    cache_dir: %kernel.cache_dir%/rss
+    cache_duration: 3600
