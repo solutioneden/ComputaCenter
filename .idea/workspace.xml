@@ -2,24 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="413f6fbb-b0b9-4835-baab-3b0fa35bff69" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_bootstrap-colorpicker_1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_bootstrap-datepicker_2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_bootstrap.min_4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_bootstrap_3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_excanvas.min_6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_excanvas_5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_fullcalendar.min_8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_fullcalendar_7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery-ui.custom.min_10.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery-ui.custom_9.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.dataTables.min_12.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.dataTables_11.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.flot.min_14.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.flot.pie.min_16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.flot.pie_15.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.flot.resize.min_18.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.flot.resize_17.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.flot_13.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.gritter.min_20.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.gritter_19.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.masonry.min_23.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.masonry_22.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.min_24.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.peity.min_26.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.peity_25.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.uniform_27.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.validate_28.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery.wizard_29.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_jquery_21.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_select2.min_31.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_select2_30.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_unicorn.calendar_32.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_unicorn.charts_33.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_unicorn.chat_34.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_unicorn.dashboard_35.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_unicorn.form_common_36.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_unicorn.form_validation_37.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_unicorn.interface_38.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_unicorn.login_40.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_unicorn.tables_41.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_unicorn.wizard_42.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/3201974_part_1_unicorn_39.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/338b189_part_1_unicorn.login_13.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/338b189_part_1_unicorn.main_14.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.grey.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.light-blue.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.red-green.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.red.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/bootstrap.css" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/colorpicker.css" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/colorpicker.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/dashboard.html.twig" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/dashboard.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/fullcalendar.css" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/fullcalendar.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/fullcalendar.js" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/fullcalendar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/ReadRss/index.html.twig" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/ReadRss/index.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/jquery-ui.css" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/jquery-ui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/jquery.gritter.css" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/jquery.gritter.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.js" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.uniform.js" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.uniform.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/select2.css" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/select2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.chat.js" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.chat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.interface.js" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.interface.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.login.css" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.login.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.main.css" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/uniform.css" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/uniform.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ComputaCenter.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/dummy.txt" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382625079228" ignored="false" />
+    <file path="/dummy.txt" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382646065354" ignored="false" />
     <file path="/Customer.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382521771918" ignored="false" />
     <file path="/routing_dev.yml" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382558393814" ignored="false" />
     <file path="/app.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382397864134" ignored="false" />
     <file path="/parameters.yml" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382401692506" ignored="false" />
-    <file path="/Dummy.txt" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382627423952" ignored="false" />
+    <file path="/Dummy.txt" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382646124488" ignored="false" />
     <file path="/Company.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382562947579" ignored="false" />
     <file path="/Rss.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382523975307" ignored="false" />
     <file path="/a.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382563577863" ignored="false" />
@@ -34,11 +91,15 @@
     <file path="/routing.yml" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382619132787" ignored="false" />
     <file path="/DefaultController.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382583671415" ignored="false" />
     <file path="/ReadRssController.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382621955068" ignored="false" />
-    <file path="/config.yml" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382629071332" ignored="false" />
+    <file path="/config.yml" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382639589898" ignored="false" />
     <file path="/autoload.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382596318139" ignored="false" />
     <file path="/index.html.twig" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382626664116" ignored="false" />
-    <file path="/a.dummy" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382626370126" ignored="false" />
-    <file path="/dashboard.html.twig" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382629693712" ignored="false" />
+    <file path="/a.dummy" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382642218917" ignored="false" />
+    <file path="/dashboard.html.twig" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382645711294" ignored="false" />
+    <file path="/AppKernel.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382635142986" ignored="false" />
+    <file path="/bootstrap.min.css" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382642427956" ignored="false" />
+    <file path="/colorpicker.css" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382641652057" ignored="false" />
+    <file path="/bootstrap.css" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382642269555" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,16 +126,7 @@
       <file leaf-file-name="dashboard.html.twig" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/dashboard.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="176" column="34" selection-start="9687" selection-end="9687" vertical-scroll-proportion="0.6964587">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="39" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0">
+            <state line="176" column="55" selection-start="10331" selection-end="10331" vertical-scroll-proportion="0.8485714">
               <folding />
             </state>
           </provider>
@@ -83,16 +135,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/tempUI/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="191" selection-end="504" vertical-scroll-proportion="-6.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/ReadRss/index.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="-0.625">
+            <state line="185" column="0" selection-start="7177" selection-end="7751" vertical-scroll-proportion="-10.333333">
               <folding />
             </state>
           </provider>
@@ -107,31 +150,31 @@
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
-      <command text="s doctrine:schema:create --dump-sql" />
-      <command text="s doctrine:generate:entities ChatterBoxBundle:Company" />
-      <command text="s doctrine:generate:crud --entity=ChatterBoxBundle:Company --route-prefix=chatterbox_company --with-write --overwrite" />
-      <command text="s doctrine:schema:create --dump-sql" />
-      <command text="s doctrine:schema:create" />
-      <command text="s doctrine:generate:entities ChatterBoxBundle:Company" />
-      <command text="s doctrine:generate:crud --entity=ChatterBoxBundle:Company --route-prefix=chatterbox_company --with-write --overwrite" />
-      <command text="s doctrine:schema:create --dump-sql" />
-      <command text="s doctrine:generate:entities ChatterBoxBundle:Rss" />
-      <command text="s doctrine:generate:crud --entity=ChatterBoxBundle:Rss --route-prefix=chatterbox_rss --with-write --overwrite" />
-      <command text="s doctrine:schema:create --dump-sql" />
-      <command text="c list" />
-      <command text="s generate:controller" />
-      <command text="s generate:controller --controller=ChatterBoxBundle:ReadRss" />
       <command text="s cache:clear" />
+      <command text="s cache:clear -e prod" />
+      <command text="s cache:clear -e prod" />
       <command text="s cache:clear" />
-      <command text="sudo php -d memory_limit=512M app/console cache:clear" />
-      <command text="sudo php -d memory_limit=512M console cache:clear" />
+      <command text="s assets:install web --symlink" />
+      <command text="s assetic:dump " />
       <command text="s cache:clear" />
-      <command text="s cache:clear" />
-      <command text="s cache:clear" />
-      <command text="s cache:clear" />
-      <command text="s cache:clear" />
-      <command text="s cache:clear" />
-      <command text="s generate:controller" />
+      <command text="s assets:install web" />
+      <command text="s assetic:dump" />
+      <command text="s assets:install web" />
+      <command text="s assetic:dump" />
+      <command text="s assets:install web" />
+      <command text="s assetic:dump" />
+      <command text="assets:install web" />
+      <command text="s assets:install web" />
+      <command text="s assetic:dump" />
+      <command text="s assets:install" />
+      <command text="s assets:install web" />
+      <command text="s assetic:dump" />
+      <command text="s assets:install web" />
+      <command text="s assetic:dump" />
+      <command text="s assets:install web" />
+      <command text="s assetic:dump" />
+      <command text="s assets:install web" />
+      <command text="s assetic:dump " />
     </commandsHistory>
   </component>
   <component name="Git.Settings">
@@ -148,21 +191,21 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/autoload.php" />
-        <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/config/routing.yml" />
-        <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Controller/ReadRssController.php" />
-        <option value="$PROJECT_DIR$/web/tempUI/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/web/tempUI/css/fullcalendar.css" />
-        <option value="$PROJECT_DIR$/web/tempUI/css/jquery-ui.css" />
-        <option value="$PROJECT_DIR$/web/tempUI/css/jquery.gritter.css" />
-        <option value="$PROJECT_DIR$/web/tempUI/css/select2.css" />
-        <option value="$PROJECT_DIR$/web/tempUI/css/unicorn.main.css" />
-        <option value="$PROJECT_DIR$/web/tempUI/css/uniform.css" />
-        <option value="$PROJECT_DIR$/web/tempUI/index.html" />
-        <option value="$PROJECT_DIR$/web/tempUI/js/unicorn.chat.js" />
         <option value="$PROJECT_DIR$/web/tempUI/js/unicorn.interface.js" />
         <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/ReadRss/index.html.twig" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
         <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/colorpicker.css" />
+        <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/fullcalendar.css" />
+        <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/jquery-ui.css" />
+        <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/jquery.gritter.css" />
+        <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/select2.css" />
+        <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.main.css" />
+        <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/uniform.css" />
+        <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.chat.js" />
+        <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.interface.js" />
         <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/dashboard.html.twig" />
       </list>
     </option>
@@ -245,118 +288,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tempUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bundles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bundles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chatterbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bundles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="acmedemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fkr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -436,172 +367,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ReadRss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChatterBoxBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChatterBoxBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChatterBoxBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChatterBoxBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChatterBoxBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -616,24 +381,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComputaCenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -649,7 +396,7 @@
     <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="98" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="108" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="896" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="898" />
@@ -761,7 +508,11 @@
       <created>1382627467413</created>
       <updated>1382627467413</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Template update">
+      <created>1382629886638</created>
+      <updated>1382629886638</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -776,7 +527,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3419453" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287879" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30081302" sideWeight="0.67021275" order="0" side_tool="false" content_ui="combo" />
@@ -834,7 +585,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Template update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Template done" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -854,6 +605,7 @@
     <MESSAGE value="Delete Vendor FKR Simplepie" />
     <MESSAGE value="Delete useless bundle" />
     <MESSAGE value="Template update" />
+    <MESSAGE value="Template done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -861,77 +613,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/tempUI/css/uniform.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="22" selection-start="1531" selection-end="1531" vertical-scroll-proportion="0.31476998">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/tempUI/css/unicorn.main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1457" column="34" selection-start="34019" selection-end="34019" vertical-scroll-proportion="0.3125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/tempUI/css/select2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="517" column="33" selection-start="17899" selection-end="17899" vertical-scroll-proportion="0.475">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/tempUI/css/jquery.gritter.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="29" selection-start="2338" selection-end="2338" vertical-scroll-proportion="0.55">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/tempUI/css/jquery-ui.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="591" column="29" selection-start="23220" selection-end="23220" vertical-scroll-proportion="0.3125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/layout.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="265" selection-end="265" vertical-scroll-proportion="0.1980198">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/Company/edit.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/tempUI/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="191" selection-end="504" vertical-scroll-proportion="-6.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/config_test.yml">
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -945,30 +627,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="39" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0">
+        <state line="32" column="40" selection-start="837" selection-end="837" vertical-scroll-proportion="-0.4814815">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/ReadRss/index.html.twig">
+    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="-0.625">
+        <state line="9" column="0" selection-start="105987" selection-end="105987" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2308" column="25" selection-start="42394" selection-end="42418" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.interface.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="41" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.33333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.chat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="63" selection-start="911" selection-end="911" vertical-scroll-proportion="0.31299734">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/uniform.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="43" selection-start="1615" selection-end="1615" vertical-scroll-proportion="0.31282052">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1457" column="55" selection-start="34985" selection-end="34985" vertical-scroll-proportion="0.31299734">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/select2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="338" column="53" selection-start="12299" selection-end="12299" vertical-scroll-proportion="0.31299734">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/jquery.gritter.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="50" selection-start="2380" selection-end="2380" vertical-scroll-proportion="0.55">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/jquery-ui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="591" column="50" selection-start="23451" selection-end="23451" vertical-scroll-proportion="0.3125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/fullcalendar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="45" selection-start="1967" selection-end="1967" vertical-scroll-proportion="0.325">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/colorpicker.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="2061" selection-start="2209" selection-end="2209" vertical-scroll-proportion="0.225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/tempUI/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="185" column="0" selection-start="7177" selection-end="7751" vertical-scroll-proportion="-10.333333">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/dashboard.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="176" column="34" selection-start="9687" selection-end="9687" vertical-scroll-proportion="0.6964587">
+        <state line="176" column="55" selection-start="10331" selection-end="10331" vertical-scroll-proportion="0.8485714">
           <folding />
         </state>
       </provider>

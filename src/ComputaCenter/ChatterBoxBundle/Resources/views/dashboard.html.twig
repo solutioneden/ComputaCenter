@@ -4,12 +4,12 @@
     <title>ComputaCenter ChatterBox</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    {% block head %}
-        <link rel="icon" sizes="16x16" href="{{ asset('favicon.ico') }}" />
-        {% stylesheets 'bundles/chatterbox/css/*' filter='cssrewrite' %}
-        <link rel="stylesheet" href="{{ asset_url }}" />
-        {% endstylesheets %}
-    {% endblock %}
+    <link rel="icon" sizes="16x16" href="{{ asset('favicon.ico') }}" />
+    <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/bootstrap.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/bootstrap-responsive.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/fullcalendar.css') }}" />
+    <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/unicorn.main.css') }}" />
+    <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/unicorn.blue.css') }}" class="skin-color" />
 </head>
 <body>
 
@@ -33,7 +33,7 @@
     <div id="content-header">
         <h1>Form and current login status</h1>
         <div class="btn-group">
-            <img src="images/logo.png" />
+            <img src="/web/bundles/chatterbox/images/logo.png" />
         </div>
     </div>
     <div class="container-fluid">
@@ -45,7 +45,7 @@
                         <ul class="recent-posts">
                             <li>
                                 <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="images/demo/av2.jpg">
+                                    <img width="40" height="40" alt="User" src="/web/bundles/chatterbox/images/demo/av2.jpg">
                                 </div>
                                 <div class="article-post">
                                     <p>
@@ -55,7 +55,7 @@
                             </li>
                             <li>
                                 <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="images/demo/av3.jpg">
+                                    <img width="40" height="40" alt="User" src="/web/bundles/chatterbox/images/demo/av3.jpg">
                                 </div>
                                 <div class="article-post">
                                     <p>
@@ -65,7 +65,7 @@
                             </li>
                             <li>
                                 <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="images/demo/av1.jpg">
+                                    <img width="40" height="40" alt="User" src="/web/bundles/chatterbox/images/demo/av1.jpg">
                                 </div>
                                 <div class="article-post">
                                     <p>
@@ -87,7 +87,7 @@
                         <ul class="recent-posts">
                             <li>
                                 <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="img/demo/av2.jpg">
+                                    <img width="40" height="40" alt="User" src="/web/bundles/chatterbox/images/demo/av2.jpg">
                                 </div>
                                 <div class="article-post">
                                     <p>
@@ -97,7 +97,7 @@
                             </li>
                             <li>
                                 <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="img/demo/av3.jpg">
+                                    <img width="40" height="40" alt="User" src="/web/bundles/chatterbox/images/demo/av3.jpg">
                                 </div>
                                 <div class="article-post">
                                     <p>
@@ -107,7 +107,7 @@
                             </li>
                             <li>
                                 <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="img/demo/av1.jpg">
+                                    <img width="40" height="40" alt="User" src="/web/bundles/chatterbox/images/demo/av1.jpg">
                                 </div>
                                 <div class="article-post">
                                     <p>
@@ -129,7 +129,7 @@
                         <ul class="recent-comments">
                             <li>
                                 <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="img/demo/av1.jpg">
+                                    <img width="40" height="40" alt="User" src="/web/bundles/chatterbox/images/demo/av1.jpg">
                                 </div>
                                 <div class="comments">
                                     <p>
@@ -139,7 +139,7 @@
                             </li>
                             <li>
                                 <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="img/demo/av3.jpg">
+                                    <img width="40" height="40" alt="User" src="/web/bundles/chatterbox/images/demo/av3.jpg">
                                 </div>
                                 <div class="comments">
                                     <p>
@@ -149,7 +149,7 @@
                             </li>
                             <li>
                                 <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="img/demo/av2.jpg">
+                                    <img width="40" height="40" alt="User" src="/web/bundles/chatterbox/images/demo/av2.jpg">
                                 </div>
                                 <div class="comments">
                                     <p>
@@ -173,10 +173,16 @@
     </div>
 </div>
 
-
-{% javascripts 'bundles/chatterbox/js/*' %}
-<script type="text/javascript" src="{{ asset_url }}"></script>
-{% endjavascripts %}
+<script src="{{ asset('bundles/chatterbox/js/excanvas.min.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/jquery.min.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/jquery.ui.custom.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/bootstrap.min.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/jquery.flot.min.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/jquery.flot.resize.min.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/jquery.peity.min.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/fullcalendar.min.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/unicorn.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/unicorn.dashboard.js') }}"></script>
 
 </body>
 </html>

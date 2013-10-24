@@ -79,11 +79,11 @@ html .fc, .fc table {
     z-index: 4;
 }
 .fc-button-prev .fc-button-content {
-    background: url("../images/larrow.png") no-repeat scroll 15px 13px transparent;
+    background: url("/web/bundles/chatterbox/images/larrow.png") no-repeat scroll 15px 13px transparent;
     width: 10px;
 }
 .fc-button-next .fc-button-content {
-    background: url("../images/rarrow.png") no-repeat scroll 15px 13px transparent;
+    background: url("/web/bundles/chatterbox/images/rarrow.png") no-repeat scroll 15px 13px transparent;
     width: 10px;
 }
 .fc-content {
@@ -96,7 +96,7 @@ html .fc, .fc table {
     border: 1px solid #D5D5D5;
 }
 .fc-state-highlight {
-    background: url("../images/backgrounds/calActiveBg.png") repeat-x scroll 0 0 #F5F5F5;
+    background: url("/web/bundles/chatterbox/images/backgrounds/calActiveBg.png") repeat-x scroll 0 0 #F5F5F5;
 }
 .fc-cell-overlay {
     background: none repeat scroll 0 0 #99CCFF;
