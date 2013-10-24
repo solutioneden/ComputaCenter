@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     {% block head %}
         <link rel="icon" sizes="16x16" href="{{ asset('favicon.ico') }}" />
-        <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/demo.css') }}" />
+        {% stylesheets 'bundles/chatterbox/css/*' filter='cssrewrite' %}
+        <link rel="stylesheet" href="{{ asset_url }}" />
+        {% endstylesheets %}
     {% endblock %}
 </head>
 <body>
@@ -85,7 +87,7 @@
                         <ul class="recent-posts">
                             <li>
                                 <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="images/demo/av2.jpg">
+                                    <img width="40" height="40" alt="User" src="img/demo/av2.jpg">
                                 </div>
                                 <div class="article-post">
                                     <p>
@@ -95,7 +97,7 @@
                             </li>
                             <li>
                                 <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="images/demo/av3.jpg">
+                                    <img width="40" height="40" alt="User" src="img/demo/av3.jpg">
                                 </div>
                                 <div class="article-post">
                                     <p>
@@ -105,7 +107,7 @@
                             </li>
                             <li>
                                 <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="images/demo/av1.jpg">
+                                    <img width="40" height="40" alt="User" src="img/demo/av1.jpg">
                                 </div>
                                 <div class="article-post">
                                     <p>
@@ -127,7 +129,7 @@
                         <ul class="recent-comments">
                             <li>
                                 <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="images/demo/av1.jpg">
+                                    <img width="40" height="40" alt="User" src="img/demo/av1.jpg">
                                 </div>
                                 <div class="comments">
                                     <p>
@@ -137,7 +139,7 @@
                             </li>
                             <li>
                                 <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="images/demo/av3.jpg">
+                                    <img width="40" height="40" alt="User" src="img/demo/av3.jpg">
                                 </div>
                                 <div class="comments">
                                     <p>
@@ -147,7 +149,7 @@
                             </li>
                             <li>
                                 <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="images/demo/av2.jpg">
+                                    <img width="40" height="40" alt="User" src="img/demo/av2.jpg">
                                 </div>
                                 <div class="comments">
                                     <p>
@@ -172,17 +174,9 @@
 </div>
 
 
-<% block scriptEnd %>
-<script src="js/excanvas.min.js"></script>
-<script src="js/jquery.min.js"></script>
-<script src="js/jquery.ui.custom.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery.flot.min.js"></script>
-<script src="js/jquery.flot.resize.min.js"></script>
-<script src="js/jquery.peity.min.js"></script>
-<script src="js/fullcalendar.min.js"></script>
-<script src="js/unicorn.js"></script>
-<script src="js/unicorn.dashboard.js"></script>
-<% block %>
+{% javascripts 'bundles/chatterbox/js/*' %}
+<script type="text/javascript" src="{{ asset_url }}"></script>
+{% endjavascripts %}
+
 </body>
 </html>

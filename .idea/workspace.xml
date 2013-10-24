@@ -2,174 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="413f6fbb-b0b9-4835-baab-3b0fa35bff69" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/av1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/av2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/av3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/book.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/book.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/breadcrumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/cabinet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/cabinet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/client.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/client.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/database.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/database.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/envelope.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/graph.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/graph.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/gritter-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/gritter-long.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/gritter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/hue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/ie-spacer.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/img9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/larrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/lock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/lock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/menu-active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/pdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/pdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/people.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/people.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/piechart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/piechart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/rarrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/demo/red-green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/saturation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/select2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/select2x2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/shopping-bag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/shopping-bag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/survey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/survey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/tag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/tag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/jquery-ui/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/jquery-ui/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/jquery-ui/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/jquery-ui/ui-bg_glass_75_dadada_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/jquery-ui/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/jquery-ui/ui-bg_glass_75_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/jquery-ui/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/jquery-ui/ui-bg_inset-soft_95_fef1ec_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/jquery-ui/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/jquery-ui/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/jquery-ui/ui-icons_454545_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/jquery-ui/ui-icons_888888_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/jquery-ui/ui-icons_cd0a0a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/jquery-ui/ui-icons_f6cf3b_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/wallet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/wallet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/16/web.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/images/icons/32/web.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/commandlinetools/Composer_10_23_13_10_01_PM_c.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/bootstrap-colorpicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/bootstrap-datepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/bootstrap-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/colorpicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/dashboard.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/datepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/excanvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/excanvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/fullcalendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/fullcalendar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/ReadRss/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery-ui.custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery-ui.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.dataTables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.dataTables.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.flot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.flot.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.flot.pie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.flot.pie.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.flot.resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.flot.resize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/jquery.gritter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.gritter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.gritter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.masonry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.masonry.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.peity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.peity.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/jquery.ui.ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.uniform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.validate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.wizard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/config/routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/select2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/select2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/symfony2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.calendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.charts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.chat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.dashboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.form_common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.form_validation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.grey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.interface.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.light-blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.red-green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.red.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.tables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/unicorn.wizard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/uniform.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ComputaCenter.iml" afterPath="$PROJECT_DIR$/.idea/ComputaCenter.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/dashboard.html.twig" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/dashboard.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/fullcalendar.js" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/fullcalendar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/ReadRss/index.html.twig" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/ReadRss/index.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.js" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.uniform.js" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/js/jquery.uniform.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.login.css" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/unicorn.login.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/uniform.css" afterPath="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/public/css/uniform.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ComputaCenter.iws" />
@@ -179,7 +19,7 @@
     <file path="/routing_dev.yml" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382558393814" ignored="false" />
     <file path="/app.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382397864134" ignored="false" />
     <file path="/parameters.yml" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382401692506" ignored="false" />
-    <file path="/Dummy.txt" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382627389219" ignored="false" />
+    <file path="/Dummy.txt" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382627423952" ignored="false" />
     <file path="/Company.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382562947579" ignored="false" />
     <file path="/Rss.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382523975307" ignored="false" />
     <file path="/a.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382563577863" ignored="false" />
@@ -194,11 +34,11 @@
     <file path="/routing.yml" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382619132787" ignored="false" />
     <file path="/DefaultController.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382583671415" ignored="false" />
     <file path="/ReadRssController.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382621955068" ignored="false" />
-    <file path="/config.yml" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382593989381" ignored="false" />
+    <file path="/config.yml" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382629071332" ignored="false" />
     <file path="/autoload.php" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382596318139" ignored="false" />
     <file path="/index.html.twig" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382626664116" ignored="false" />
     <file path="/a.dummy" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382626370126" ignored="false" />
-    <file path="/dashboard.html.twig" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382625678475" ignored="false" />
+    <file path="/dashboard.html.twig" changelist="413f6fbb-b0b9-4835-baab-3b0fa35bff69" time="1382629693712" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,19 +62,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dashboard.html.twig" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="dashboard.html.twig" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/dashboard.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="9" selection-start="1123" selection-end="1123" vertical-scroll-proportion="-16.25">
+            <state line="176" column="34" selection-start="9687" selection-end="9687" vertical-scroll-proportion="0.6964587">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.twig" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="39" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/tempUI/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="191" selection-end="504" vertical-scroll-proportion="-6.875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/ReadRss/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
+            <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
@@ -290,11 +148,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/app/autoload.php" />
         <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Controller/ReadRssController.php" />
-        <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/dashboard.html.twig" />
         <option value="$PROJECT_DIR$/web/tempUI/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/web/tempUI/css/fullcalendar.css" />
         <option value="$PROJECT_DIR$/web/tempUI/css/jquery-ui.css" />
@@ -306,6 +162,8 @@
         <option value="$PROJECT_DIR$/web/tempUI/js/unicorn.chat.js" />
         <option value="$PROJECT_DIR$/web/tempUI/js/unicorn.interface.js" />
         <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/ReadRss/index.html.twig" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/dashboard.html.twig" />
       </list>
     </option>
   </component>
@@ -410,6 +268,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bundles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ComputaCenter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ComputaCenter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bundles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chatterbox" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -739,6 +619,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ComputaCenter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ComputaCenter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -859,7 +757,11 @@
       <created>1382561989336</created>
       <updated>1382561989336</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Template update">
+      <created>1382627467413</created>
+      <updated>1382627467413</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -874,7 +776,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3419453" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287879" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30081302" sideWeight="0.67021275" order="0" side_tool="false" content_ui="combo" />
@@ -959,55 +861,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/tempUI/css/colorpicker.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="1968" selection-start="2116" selection-end="2116" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/tempUI/css/fullcalendar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="24" selection-start="1638" selection-end="1638" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/tempUI/js/unicorn.interface.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="191" column="9" selection-start="5364" selection-end="5364" vertical-scroll-proportion="0.6816976">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/tempUI/js/unicorn.chat.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="39" selection-start="815" selection-end="815" vertical-scroll-proportion="0.331565">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/tempUI/js/jquery-ui.custom.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="115731" selection-start="116710" selection-end="116710" vertical-scroll-proportion="0.0795756">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/tempUI/js/jquery-ui.custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6973" column="57" selection-start="212016" selection-end="212016" vertical-scroll-proportion="0.331565">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/tempUI/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="150" column="88" selection-start="6517" selection-end="6517" vertical-scroll-proportion="0.31117022">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/tempUI/css/uniform.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="75" column="22" selection-start="1531" selection-end="1531" vertical-scroll-proportion="0.31476998">
@@ -1043,13 +896,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/dashboard.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="9" selection-start="1123" selection-end="1123" vertical-scroll-proportion="-16.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Acme/DemoBundle/Resources/views/layout.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="265" selection-end="265" vertical-scroll-proportion="0.1980198">
@@ -1064,9 +910,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/tempUI/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="191" selection-end="504" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="39" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/ReadRss/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
+        <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComputaCenter/ChatterBoxBundle/Resources/views/dashboard.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="176" column="34" selection-start="9687" selection-end="9687" vertical-scroll-proportion="0.6964587">
           <folding />
         </state>
       </provider>
