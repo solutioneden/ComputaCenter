@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ComputaCenter ChatterBox</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" sizes="16x16" href="{{ asset('favicon.ico') }}" />
+    <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/bootstrap.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/bootstrap-responsive.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/unicorn.main.css') }}" />
+    <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/unicorn.blue.css') }}" class="skin-color" />
+</head>
+<body>
+
+
+<div id="header">
+    <h1><a href="#">ChatterBox</a></h1>
+</div>
+
+<div id="search">
+    <input type="text" placeholder="Search for company, person, or news"/><button type="submit" class="tip-right" title="Search"><i class="icon-search"></i></button>
+</div>
+<div id="user-nav" class="navbar navbar-inverse">
+    <ul class="nav btn-group">
+        <li class="" ><a title="" href="#"><i class="icon icon-user"></i> <span class="text">My Account</span></a></li>
+        <li class=""><a title="" href="#"><i class="icon icon-cog"></i> <span class="text">Settings</span></a></li>
+        <li class=""><a title="" href="login.html"><i class="icon icon-share-alt"></i> <span class="text">Logout</span></a></li>
+    </ul>
+</div>
+
+<div id="content">
+    <div id="content-header">
+        <h1>Form and current login status</h1>
+        <div class="btn-group">
+            <img src="/web/bundles/chatterbox/images/logo.png" />
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="widget-box">
+                    <div class="widget-title">
+								<span class="icon">
+									<i class="icon-th"></i>
+								</span>
+                        <h5>RSS CRUD</h5>
+                    </div>
+                    <div class="widget-content nopadding tab-content">
+                        <table class="table table-bordered table-striped table-hover">
+                            <thead>
+                            <tr>
+                                <th>CRUD</th>
+                                <th>RSS Name</th>
+                                <th>RSS Link</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            {% block rssContent %}{% endblock %}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row-fluid">
+            <div id="footer" class="span12">
+                Home | Help | Support | Logout
+            </div>
+        </div>
+    </div>
+</div>
+{% block footer %}{% endblock %}
+
+<script src="{{ asset('bundles/chatterbox/js/jquery.min.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/jquery.ui.custom.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/bootstrap.min.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/jquery.uniform.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/select2.min.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/jquery.dataTables.min.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/unicorn.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/unicorn.tables.js') }}"></script>
+
+
+</body>
+</html>

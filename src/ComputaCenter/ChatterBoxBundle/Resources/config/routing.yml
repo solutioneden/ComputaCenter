@@ -1,4 +1,19 @@
-_readdrss:
-  resource: "@ChatterBoxBundle/Controller"
-  type: annotation
-  prefix: /readrss
+_login:
+  pattern:  /
+  defaults: { _controller: ChatterBoxBundle:Login:index }
+
+_readrss:
+  pattern: /readrss
+  defaults: {_controller: ChatterBoxBundle:ReadRss:index }
+
+_readrss_create:
+  pattern: /readrss/create
+  defaults: {_controller: ChatterBoxBundle:ReadRss:createRss }
+
+_readrss_delete:
+  pattern: /readrss/delete
+  defaults: {_controller: ChatterBoxBundle:ReadRss:deleteRss }
+
+_dashboard:
+  pattern: /dashboard
+  defaults: {_controller: ChatterBoxBundle:Dashboard:index}

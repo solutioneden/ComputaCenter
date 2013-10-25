@@ -1,1 +1,17 @@
-{% extends 'ChatterBoxBundle::dashboard.html.twig' %}
+{% extends 'ChatterBoxBundle::rss.html.twig' %}
+{% block rssContent %}
+    <tr>
+        <form action="/web/readrss/create" method="GET">
+        <td><button type="submit" class="btn btn-danger"><i class="icon-plus icon-white"></i></button></td>
+        <td><input name="rssName" type="text" placeholder="e.g. yahoo" /></td>
+        <td><input name="rssLink" type="text" placeholder="e.g. http://www.yahoo.co.uk/rss" /></td>
+        </form>
+    </tr>
+    {% for rssItem in rssEntities %}
+    <tr>
+        <td><a href="/web/readrss/delete?rssId={{ rssItem.id }}" class="btn btn-danger"><i class="icon-remove icon-white"></i> Remove</a></td>
+        <td>{{ rssItem.name }}</td>
+        <td>{{ rssItem.link }}</td>
+    </tr>
+    {% endfor %}
+{% endblock %}

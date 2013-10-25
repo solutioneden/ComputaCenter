@@ -43,36 +43,7 @@
                     <div class="widget-title"><span class="icon"><i class="icon-file"></i></span><h5>Customer Buzz</h5><span title="hide content" class="label label-info tip-left"><i class="icon-minus icon-white"></i></span></div>
                     <div class="widget-content nopadding">
                         <ul class="recent-posts">
-                            <li>
-                                <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="/web/bundles/chatterbox/images/demo/av2.jpg">
-                                </div>
-                                <div class="article-post">
-                                    <p>
-                                        <a href="#">Morrisons to launch online food operation</a><br/>Find hundreds of fantastic offers, easy recipes and entertainment products for the family at Morrisons online.
-                                    </p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="/web/bundles/chatterbox/images/demo/av3.jpg">
-                                </div>
-                                <div class="article-post">
-                                    <p>
-                                        <a href="#">Morrisons to launch online food operation</a><br/>Find hundreds of fantastic offers, easy recipes and entertainment products for the family at Morrisons online.
-                                    </p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="user-thumb">
-                                    <img width="40" height="40" alt="User" src="/web/bundles/chatterbox/images/demo/av1.jpg">
-                                </div>
-                                <div class="article-post">
-                                    <p>
-                                        <a href="#">Morrisons to launch online food operation</a><br/>Find hundreds of fantastic offers, easy recipes and entertainment products for the family at Morrisons online.
-                                    </p>
-                                </div>
-                            </li>
+                            {% block rss %}{% endblock %}
                             <li class="viewall">
                                 <a title="View all posts" class="tip-top" href="#"> + View all + </a>
                             </li>
@@ -172,6 +143,7 @@
         </div>
     </div>
 </div>
+{% block footer %}{% endblock %}
 
 <script src="{{ asset('bundles/chatterbox/js/excanvas.min.js') }}"></script>
 <script src="{{ asset('bundles/chatterbox/js/jquery.min.js') }}"></script>
