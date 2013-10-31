@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ComputaCenter ChatterBox</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/bootstrap.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/bootstrap-responsive.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/unicorn.login.css') }}" />
+</head>
+<body>
+<div id="logo">
+    <img src="/web/bundles/chatterbox/images/logo.png" alt="" />
+</div>
+<div id="loginbox">
+    {% block content %}
+        {% block fos_user_content %}{% endblock fos_user_content %}
+    {% endblock content %}
+</div>
+
+<script src="{{ asset('bundles/chatterbox/js/jquery.min.js') }}"></script>
+<script src="{{ asset('bundles/chatterbox/js/unicorn.login.js') }}"></script>
+</body>
+</html>

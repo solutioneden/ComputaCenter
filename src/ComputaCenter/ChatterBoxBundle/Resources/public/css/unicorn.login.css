@@ -8,13 +8,7 @@ html, body {
     overflow:hidden;
 }
 body {
-	background-color: #444444;
-	background-image: -webkit-gradient(linear, 0 0%, 0 100%, from(#555555), to(#111111));
-	background-image: -webkit-linear-gradient(top, #555555 0%, #111111 100%);
-    background-image: -moz-linear-gradient(top, #555555 0%, #111111 100%);
-    background-image: -ms-linear-gradient(top, #555555 0%, #111111 100%);
-    background-image: -o-linear-gradient(top, #555555 0%, #111111 100%);
-    background-image: linear-gradient(top, #555555 0%, #111111 100%);
+	background-color: #223784;
     padding: 0;
     margin: 0;
 }
@@ -29,12 +23,10 @@ body {
     padding: 20px 0 20px 5px;
 }
 #logo img {
-    width: 215px;
     margin: 0 auto;
     display: block;
 }
 #loginbox {
-    height: 196px;
 	background: #ffffff;
     box-shadow: 0 0 4px #000000;
     border-radius: 7px;
@@ -46,9 +38,9 @@ body {
 #loginbox form{
 	width:100%;
 	height:100%;
-	position:absolute;
 	top:0;
 	left:0;
+    padding-top: 20px;
 }
 #loginbox p {
     margin-top: 20px;

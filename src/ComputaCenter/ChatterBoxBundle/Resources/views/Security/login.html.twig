@@ -1,0 +1,38 @@
+{% extends "ChatterBoxBundle::layout.html.twig" %}
+
+{% trans_default_domain 'FOSUserBundle' %}
+
+{% block fos_user_content %}
+    {% if error %}
+        <div>{{ error|trans }}</div>
+    {% endif %}
+
+    <form id="loginform" class="form-vertical" action="{{ path("fos_user_security_check") }}" method="post">
+
+        <input type="hidden" name="_csrf_token" value="{{ csrf_token }}" />
+
+        <div class="control-group">
+            <div class="controls">
+                <div class="input-prepend">
+                    <span class="add-on"><i class="icon-user"></i></span>
+                    <input type="text" id="username" name="_username" value="{{ last_username }}" required="required" />
+                </div>
+            </div>
+        </div>
+        <div class="control-group">
+            <div class="controls">
+                <div class="input-prepend">
+                    <span class="add-on"><i class="icon-lock"></i></span>
+                    <input type="password" id="password" name="_password" required="required" />
+                </div>
+            </div>
+        </div>
+        <div class="form-actions">
+            <span class="pull-left">
+                <a href="/web/resetting/request" class="flip-link" id="to-recover">Lost password?</a>
+            </span>
+            <span class="pull-right"><input id="_submit" name="_submit" type="submit" class="btn btn-inverse" value="Login" /></span>
+        </div>
+
+    </form>
+{% endblock fos_user_content %}

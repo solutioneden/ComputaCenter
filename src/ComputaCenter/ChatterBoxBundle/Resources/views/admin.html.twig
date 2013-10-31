@@ -7,6 +7,9 @@
     <link rel="icon" sizes="16x16" href="{{ asset('favicon.ico') }}" />
     <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/bootstrap.min.css') }}" />
     <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/bootstrap-responsive.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/jquery-ui.css') }}" />
+    <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/uniform.css') }}" />
+    <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/select2.css') }}" />
     <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/unicorn.main.css') }}" />
     <link rel="stylesheet" href="{{ asset('bundles/chatterbox/css/unicorn.blue.css') }}" class="skin-color" />
 </head>
@@ -24,44 +27,41 @@
     <ul class="nav btn-group">
         <li class="" ><a title="" href="/web/profile"><i class="icon icon-user"></i> <span class="text">My Account</span></a></li>
         <li class=""><a title="" href="#"><i class="icon icon-cog"></i> <span class="text">Settings</span></a></li>
-        <li class=""><a title="" href="/logout"><i class="icon icon-share-alt"></i> <span class="text">Logout</span></a></li>
+        <li class=""><a title="" href="/web/logout"><i class="icon icon-share-alt"></i> <span class="text">Logout</span></a></li>
     </ul>
 </div>
 
-<div id="content">
+<div id="sidebar">
+    <a href="#" class="visible-phone"><i class="icon icon-th-list"></i> Admin Settings</a>
+    <ul>
+        <li class="active"><a href="/web/admin/user/read"><i class="icon icon-user"></i> <span>Users</span></a></li>
+        <li class="submenu">
+            <a href="#"><i class="icon icon-th-list"></i> <span>Company</span></a>
+            <ul>
+                <li><a href="/web/chatterbox_company">Basic Info</a></li>
+                <li><a href="/web/readrss">RSS</a></li>
+            </ul>
+        </li>
+        <li class="submenu">
+            <a href="#"><i class="icon icon-th-list"></i> <span>Contact</span></a>
+            <ul>
+                <li><a href="/web/chatterbox_customer">Basic Info</a></li>
+                <li><a href="/web/readrss">Social Account</a></li>
+            </ul>
+        </li>
+    </ul>
+
+</div>
+
+<div id="contentAdmin">
     <div id="content-header">
-        <h1>Form and current login status</h1>
+        <h1>Welcome, {{ app.user.username }}</h1>
         <div class="btn-group">
             <img src="/web/bundles/chatterbox/images/logo.png" />
         </div>
     </div>
     <div class="container-fluid">
-        <div class="row-fluid">
-            <div class="span12">
-                <div class="widget-box">
-                    <div class="widget-title">
-								<span class="icon">
-									<i class="icon-th"></i>
-								</span>
-                        <h5>RSS CRUD</h5>
-                    </div>
-                    <div class="widget-content nopadding tab-content">
-                        <table class="table table-bordered table-striped table-hover">
-                            <thead>
-                            <tr>
-                                <th>CRUD</th>
-                                <th>RSS Name</th>
-                                <th>RSS Link</th>
-                            </tr>
-                            </thead>
-                            <tbody>
-                            {% block rssContent %}{% endblock rssContent %}
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-            </div>
-        </div>
+        {% block adminArea %}{% endblock adminArea %}
         <div class="row-fluid">
             <div id="footer" class="span12">
                 Home | Help | Support | Logout
@@ -79,7 +79,6 @@
 <script src="{{ asset('bundles/chatterbox/js/jquery.dataTables.min.js') }}"></script>
 <script src="{{ asset('bundles/chatterbox/js/unicorn.js') }}"></script>
 <script src="{{ asset('bundles/chatterbox/js/unicorn.tables.js') }}"></script>
-
 
 </body>
 </html>

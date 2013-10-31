@@ -1,0 +1,59 @@
+{% extends 'ChatterBoxBundle::admin.html.twig' %}
+
+{% block adminArea %}
+    <div class="row-fluid">
+        <div class="span12">
+            <div class="widget-box">
+                <div class="widget-title">
+								<span class="icon">
+									<i class="icon-th"></i>
+								</span>
+                    <h5>User CRUD</h5>
+                </div>
+                <div class="widget-content nopadding tab-content">
+                    <table class="table table-bordered table-striped table-hover data-table">
+                        <thead>
+                        <tr>
+                            <th>CRUD</th>
+                            <th>Username</th>
+                            <th>Email</th>
+                            <th>First name</th>
+                            <th>Last name</th>
+                            <th>Password</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <form action="/web/admin/user/create" method="GET">
+                                <td><button type="submit" class="btn btn-primary"><i class="icon-plus icon-white"></i></button></td>
+                                <td><input name="username" type="text" placeholder="e.g. john.smith" /></td>
+                                <td><input name="email" type="text" placeholder="e.g. john.smith@gmail.com" /></td>
+                                <td><input name="firstName" type="text" placeholder="e.g. John" /></td>
+                                <td><input name="lastName" type="text" placeholder="e.g. smith" /></td>
+                                <td><input name="password" type="password" placeholder="e.g. A1b2.C3" /></td>
+                            </form>
+                        </tr>
+                        {% for aUser in users %}
+                            <form name="{{ aUser.id }}" action="/web/admin/user/update" method="GET">
+                            <tr>
+                                <td>
+                                    <button type="submit" class="btn btn-primary btn-mini"><i class="icon-pencil icon-white"></i></button>
+                                    <input name="userId" type="hidden" value="{{ aUser.id }}" />
+                                    <a href="/web/admin/user/delete?email={{ aUser.email }}" class="btn btn-danger btn-mini"><i class="icon-remove icon-white"></i></a>
+                                </td>
+                                <td><input name="username" type="text" value="{{ aUser.username }}" /></td>
+                                <td><input name="email" type="text" value="{{ aUser.email }}" /></td>
+                                <td><input name="firstName" type="text" value="{{ aUser.firstName }}" /></td>
+                                <td><input name="lastName" type="text" value="{{ aUser.lastName }}" /></td>
+                                <td><input name="password" type="password" value="{{ aUser.password }}" /></td>
+                                <td></td>
+                            </tr>
+                            </form>
+                        {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock adminArea %}

@@ -4,7 +4,7 @@ imports:
 
 framework:
     #esi:             ~
-    #translator:      { fallback: %locale% }
+    translator:      { fallback: %locale% }
     secret:          %secret%
     router:
         resource: "%kernel.root_dir%/config/routing.yml"
@@ -59,11 +59,13 @@ doctrine:
 
 # Swiftmailer Configuration
 swiftmailer:
-    transport: %mailer_transport%
-    host:      %mailer_host%
-    username:  %mailer_user%
-    password:  %mailer_password%
+    transport: smtp
+    host:      smtp.mail.yahoo.com
+    username:  ram_110011@yahoo.co.uk
+    password:  110011Ram
     spool:     { type: memory }
+    encryption: ssl
+    port:      465
 
 # FKR SimplePie Configuration
 fkr_simple_pie:
@@ -76,3 +78,10 @@ fos_user:
     db_driver: orm
     firewall_name: main
     user_class: ComputaCenter\ChatterBoxBundle\Entity\User
+
+    registration:
+      confirmation:
+        enabled: true
+
+    service:
+      user_manager: fos_user.user_manager.default

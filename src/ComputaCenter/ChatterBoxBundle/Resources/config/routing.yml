@@ -1,6 +1,6 @@
-_login:
-  pattern:  /
-  defaults: { _controller: ChatterBoxBundle:Login:index }
+_dashboard:
+  pattern: /
+  defaults: {_controller: ChatterBoxBundle:Dashboard:index}
 
 _readrss:
   pattern: /readrss
@@ -14,6 +14,41 @@ _readrss_delete:
   pattern: /readrss/delete
   defaults: {_controller: ChatterBoxBundle:ReadRss:deleteRss }
 
-_dashboard:
-  pattern: /dashboard
-  defaults: {_controller: ChatterBoxBundle:Dashboard:index}
+_settings:
+  pattern: /admin
+  defaults: {_controller: ChatterBoxBundle:Settings:index}
+
+_settings_user_create:
+  pattern: /admin/user/create
+  defaults: {_controller: ChatterBoxBundle:Settings:userCreate}
+
+_settings_user_read:
+  pattern: /admin/user/read
+  defaults: {_controller: ChatterBoxBundle:Settings:userRead}
+
+_settings_user_update:
+  pattern: /admin/user/update
+  defaults: {_controller: ChatterBoxBundle:Settings:userUpdate}
+
+_settings_user_delete:
+  pattern: /admin/user/delete
+  defaults: {_controller: ChatterBoxBundle:Settings:userDelete}
+
+fos_user_security:
+    resource: "@FOSUserBundle/Resources/config/routing/security.xml"
+
+fos_user_profile:
+    resource: "@FOSUserBundle/Resources/config/routing/profile.xml"
+    prefix: /profile
+
+fos_user_register:
+    resource: "@FOSUserBundle/Resources/config/routing/registration.xml"
+    prefix: /register
+
+fos_user_resetting:
+    resource: "@FOSUserBundle/Resources/config/routing/resetting.xml"
+    prefix: /resetting
+
+fos_user_change_password:
+    resource: "@FOSUserBundle/Resources/config/routing/change_password.xml"
+    prefix: /profile

@@ -3,14 +3,9 @@
 {% block rss %}
     {% for rss in rssEntities %}
         <li>
-            <div class="user-thumb">
-                <img width="40" height="40" alt="" src="">
-            </div>
             <div class="article-post">
-                <p>
-                    <a href="{{ rss.get_link() }}">{{ rss.get_title() }}</a><br/>{{ rss.get_description() }}
-                </p>
+                <a href="{{ rss.get_link() }}">{{ rss.get_title() }}</a><br/>{{ rss.get_description() | raw }}
             </div>
         </li>
     {% endfor %}
-{% endblock %}
+{% endblock rss %}

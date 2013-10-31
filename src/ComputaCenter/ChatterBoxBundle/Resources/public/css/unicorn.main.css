@@ -141,6 +141,7 @@ a:hover {
 	padding: 0;
 	position: absolute;
 	width: 220px;
+    background-color: #223784;
 }
 #sidebar > ul > li {
 	display: block;	
@@ -202,6 +203,19 @@ a:hover {
     margin-left: 40px;
     margin-right: 40px;
 	margin-top: 40px;
+    padding-bottom: 25px;
+    position: relative;
+    min-height: 500px;
+    width: auto;
+    -webkit-background-clip: padding-box;
+    border-top-left-radius: 8px;
+}
+
+#contentAdmin {
+    background: none repeat scroll 0 0 #eeeeee;
+    margin-left: 220px;
+    margin-right: 40px;
+    margin-top: 40px;
     padding-bottom: 25px;
     position: relative;
     min-height: 500px;
